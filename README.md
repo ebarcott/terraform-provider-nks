@@ -3,7 +3,8 @@ NKS Provider for Terraform
 
 NetApp Kubernetes Service (NKS) is a universal control plane for creating and managing Kubernetes clusters.
 
-- Website: https://cloud.netapp.com/kubernetes-service
+- [NetApp Kubernetes Service Website](https://cloud.netapp.com/kubernetes-service)
+- [NetApp Kubernetes Service Documentation](https://docs.netapp.com/us-en/kubernetes-service/)
 
 Requirements
 ------------
